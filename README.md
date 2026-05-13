@@ -1,4 +1,4 @@
-# AI-Powered-Skin-Disease-Detection-and-Recommendation-System
+# AI-Powered-Skin-Disease-Detection-and-Recommendation-System PP1 Presentation
 
 ## Project Overview
 The Skin Disease Detection and Recommendation System is an AI-powered research project developed to improve early skin disease identification and provide educational support for users. The system focuses on accessibility, fairness, explainability, and personalized recommendations through deep learning and retrieval-based AI techniques.
