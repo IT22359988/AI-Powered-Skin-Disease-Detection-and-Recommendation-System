@@ -87,15 +87,17 @@ This project addresses these limitations by introducing an explainable and stage
 
 
 
-## System Architecture
+## Architecture Diagram
 
-1. User uploads skin image
-2. Image preprocessing is performed
-3. AI model predicts disease category
-4. Severity stage is identified
-5. Explainable outputs are generated
-6. RAG module retrieves educational information
-7. System provides recommendations and safety guidance
+```mermaid
+flowchart LR
+User --> Frontend
+Frontend --> Flask_Backend
+Flask_Backend --> CNN_Model
+CNN_Model --> Disease_Prediction
+Disease_Prediction --> Recommendation_System
+Recommendation_System --> User
+```
 
 
 
