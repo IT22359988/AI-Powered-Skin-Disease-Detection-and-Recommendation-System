@@ -89,15 +89,7 @@ This project addresses these limitations by introducing an explainable and stage
 
 ## Architecture Diagram
 
-```mermaid
-flowchart LR
-User --> Frontend
-Frontend --> Flask_Backend
-Flask_Backend --> CNN_Model
-CNN_Model --> Disease_Prediction
-Disease_Prediction --> Recommendation_System
-Recommendation_System --> User
-```
+![Architecture Diagram](Architecture Diagram.jpeg)
 
 
 
