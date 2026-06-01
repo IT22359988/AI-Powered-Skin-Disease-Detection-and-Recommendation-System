@@ -88,8 +88,7 @@ This project addresses these limitations by introducing an explainable and stage
 
 
 ## Architecture Diagram
-
-(architecture Diagram.jpeg)
+Architecture Diagram.jpeg
 
 
 
