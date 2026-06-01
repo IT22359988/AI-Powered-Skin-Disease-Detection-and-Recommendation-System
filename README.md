@@ -89,7 +89,7 @@ This project addresses these limitations by introducing an explainable and stage
 
 ## Architecture Diagram
 
-![Architecture Diagram](Architecture Diagram.jpeg)
+(architecture Diagram.jpeg)
 
 
 
